@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Dave Gnukem
+GenericName=Dave Gnukem - A Duke Nukem parody
+Comment=Dave Gnukem - A Duke Nukem parody
+Version=1.1.1
+Exec=/usr/games/dave-gnukem
+Icon=/usr/share/pixmaps/dave_gnukem.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Game;ArcadeGame;
+
+
